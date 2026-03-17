@@ -1,8 +1,6 @@
 # spotify-to-ytmusic
 
-Fast Spotify → YouTube Music playlist transfer with logs, retry logic, dry-run mode, and failure reports.
-
-Transfer Spotify playlists to YouTube Music with retry logic, failure reports, dry-run support, and search diagnostics.
+Fast Spotify → YouTube Music playlist transfer with retry logic, dry-run mode, and detailed reports.
 
 This tool helps you migrate playlists from Spotify to YouTube Music while providing detailed feedback about what was matched, added, skipped, or failed.
 
