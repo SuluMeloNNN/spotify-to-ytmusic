@@ -47,7 +47,7 @@ Because of that, behavior may occasionally change if YouTube Music changes its w
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/spotify-to-ytmusic.git
+git clone https://github.com/SuluMeloNNN/spotify-to-ytmusic.git
 cd spotify-to-ytmusic
 ```
 
